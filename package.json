@@ -1,0 +1,16 @@
+{
+  "name": "resilient-job-scheduler-core",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "scheduler",
+    "distributed-jobs",
+    "lease-lock",
+    "heartbeat"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
